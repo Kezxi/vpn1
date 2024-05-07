@@ -91,7 +91,7 @@ uvD3nJZxwzInIdkzr38fKg==
 -----END PRIVATE KEY-----
 </key>
 key-direction 1
-<tls-auth>
+<tls-crypt>
 #
 # 2048 bit OpenVPN static key (Server Agent)
 #
@@ -113,7 +113,7 @@ b18afeab8034b6b51a67777f7af309a8
 7539da66af5e2ef622687f4f61e92e3e
 95964921ed763a8dc412083e0ed17ae8
 -----END OpenVPN Static key V1-----
-</tls-auth>
+</tls-crypt>
       "},
     {"id":1,"file":""}]
 }
